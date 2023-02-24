@@ -1,0 +1,14 @@
+.btn-blue{
+	color: white;
+	background-color: #BB5E36;
+	border: 1px solid #BB5E36;
+	border-radius: 5px
+	padding: 15px
+
+}
+.btn-blue:hover{
+	background-color: white;
+	color: red;
+	transition: 1s;
+	transform: rotate(360deg);
+}
