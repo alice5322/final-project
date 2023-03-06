@@ -30,9 +30,12 @@ h4{
 }
 
 h5{
-	text-align: center; 
+	text-align: center justify;  
 	color: #BB5E36;
 }
+
+
+
 
 nav {
   background-color: #BB5E36;

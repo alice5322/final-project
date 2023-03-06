@@ -10,7 +10,7 @@
 	padding: 24px;
 	border-radius: 6px;
 	box-shadow: 1px 1px 1px 1px;
-	text-align: center;
+	text-align: justify;
 
 }
 .card img{
@@ -29,8 +29,12 @@
 
 .card {
 	text-align: center;
+	justify-content: space-between;
+	margin: 15px;
+
 
 }
+
 
 .card{
 	border-radius: 55px;
