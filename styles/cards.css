@@ -3,6 +3,7 @@
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 16px;
 
+
 }
 .card {
 	background-color: white;
@@ -16,6 +17,22 @@
 	height: 250px;
 	width:250px;
 	object-fit: cover;
+
 }
 
 
+.cards{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 16px;
+}
+
+.card {
+	text-align: center;
+
+}
+
+.card{
+	border-radius: 55px;
+	box-shadow: 1px 2px 2px 2px;
+}

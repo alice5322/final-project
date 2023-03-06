@@ -20,10 +20,18 @@ body{
 
 }
 
+h3{
+	color: black;
+}
+
 h4{
 	width:90%;
 	margin: 24px auto;
 	text-align: center;
-	
-
 }
+
+h5{
+	text-align: center; 
+	color: #BB5E36;
+}
+
